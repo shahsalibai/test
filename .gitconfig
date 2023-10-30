@@ -1,0 +1,5 @@
+[credential "https://codeup.aliyun.com"]
+	provider = generic
+[user]
+	name = 赵家兴
+	email = zhaojiaxing001@chinasoftinc.com
